@@ -28,7 +28,7 @@ The ESC is designed primarily for **AUV and underwater thruster applications**, 
 
 ## Future Scope
 
-Future development can include **closed-loop speed control, sensorless commutation, improved current/voltage protection, fault detection, telemetry, configurable control parameters, and higher-performance commutation algorithms**. The design can also be further optimized for thermal performance, switching efficiency, and compact PCB layout.
+Future development can include **closed-loop speed control, sensorless commutation, improved current/voltage protection, fault detection, telemetry, configurable control parameters, and higher-performance commutation algorithms**. The design can also be further optimized for thermal performance and switching efficiency.
 
 ## Tools & Technologies
 
