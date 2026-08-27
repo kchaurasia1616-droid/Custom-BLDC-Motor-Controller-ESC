@@ -34,5 +34,5 @@ The ESC is designed primarily for **AUV and underwater thruster applications**, 
 **STM32G071KBT6** — motor-control MCU
 **FD6288Q** — 3-phase MOSFET gate driver
 **INA180** — current-sense amplifier
-
+---
 ### Author: Kritika Chaurasia ^_^
