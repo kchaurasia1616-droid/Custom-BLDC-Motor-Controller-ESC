@@ -35,3 +35,4 @@ The ESC is designed primarily for **AUV and underwater thruster applications**, 
 **FD6288Q** — 3-phase MOSFET gate driver
 **INA180** — current-sense amplifier
 
+## author: Kritika Chaurasia ^_^
