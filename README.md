@@ -28,7 +28,7 @@ The ESC is designed primarily for **AUV and underwater thruster applications**, 
 
 ## Tools & Technologies:
 
-* **Altium Designer** : schematic design and PCB development
+* **Altium Designer** : schematic design and PCB development, signal integrity, layer stackup, pcb layout and routing
 * **STM32CubeMX** : MCU configuration, pin muxing, timers, ADC and peripheral setup
 * **QSPICE** : MOSFET switching and power-electronics simulation
 * **STM32G071KBT6** : motor-control MCU
